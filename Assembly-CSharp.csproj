@@ -64,6 +64,7 @@
     <Compile Include="Assets\Resources\Script\MakeTexquad.cs" />
     <Compile Include="Assets\Resources\Script\VertexStruct.cs" />
     <None Include="Assets\Resources\BasicShader.shader" />
+    <None Include="Assets\Resources\BasicTextureShader.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/develop/unity/UnityTexquad/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

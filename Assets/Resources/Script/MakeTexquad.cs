@@ -69,7 +69,7 @@ public class MakeTexquad : MonoBehaviour {
         //매쉬 필터에 적용
         mf.mesh = mesh;
         //머티리얼 적용
-        Material mat = new Material(Shader.Find("Custom/BasicShader"));
+        Material mat = new Material(Shader.Find("Custom/BasicTextureShader"));
         mat.mainTexture = tex;
 
         mr.material = mat;
